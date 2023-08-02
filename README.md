@@ -6,7 +6,7 @@ Gamedev
 работал с .NET для дипломного проекта. Сейчас выпустился и нахожусь в свободном плавании занимаясь саморазвитием.
 
 *   ✉️  Вы можете связаться со мной [dimyliki5042@gmail.com](mailto:dimyliki5042@gmail.com)
-*   🧠  Сейчас я изучаю: C++, 3D-моделирование, анимация
+*   🧠  Сейчас я изучаю: 3D-моделирование, анимация, C++
 <a href="https://www.github.com/dimyliki5042" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/dimyliki5042?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
@@ -22,15 +22,19 @@ Gamedev
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+<a href="https://www.apachefriends.org/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" width="40" height="40" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" width="40" height="40" /></a> 
 </p>
 
-### Socials
-<p align="left">
-  <a href="https://www.github.com/dimyliki5042" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+### Ссылки
+<div align="left">
+  <a href="https://github.com/dimyliki5042" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
-</p>
+  <a href="https://gitlab.com/redimposter2018" target="_blank">
+  <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+  </a>  
+</div>  
 
-### Badges
-
+---
 <a href="https://github.com/dimyliki5042" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimyliki5042&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
