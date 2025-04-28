@@ -1,27 +1,16 @@
-Привет![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)меня зовут Дмитрий
-===============================================================================================================================
-Геймдев
-------------------
-Я отучился в Зеленогорском техникуме промышленных технологий и сервиса на профессию программист-техник. Много работал в сфере связанной с разработкой игр и мультимедийных приложений. В последнее время
-работал с .NET для дипломного проекта. Сейчас выпустился и нахожусь в свободном плавании, занимаясь саморазвитием.
-
-*   ✉️  Вы можете связаться со мной [dimyliki5042@gmail.com](mailto:dimyliki5042@gmail.com)
-*   🧠  Сейчас я изучаю: 3D-моделирование, анимацию, C++, геймдизайн, левелдизайн, продюсирование
-
 Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Dmitriy!
 ===============================================================================================================================
-Gamedev
+Developer
 ------------------
-I studied at the Zelenogorsk College of Industrial Technologies and Services to become a programmer technician. Worked a lot in the field of developing games and multimedia applications. Last time
-worked with .NET for my graduation project. Now I have graduated and am free to swim, engaged in self-development.
+He studied at college as a programmer technician. He was engaged in the development of 2D, 3D and VR games. I did some development work .NET of applications. I am currently actively studying the development of neural networks.
 
 * ✉️ You can contact me [dimyliki5042@gmail.com](mailto:dimyliki5042@gmail.com)
-* 🧠 Currently I am studying: 3D modeling, animation, C++, game design, level design, producing
+* 🧠 Currently I am studying: Python, Data Science, AI development
 <a href="https://www.github.com/dimyliki5042" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/dimyliki5042?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
-### Стек-технологий/Stack 
+### Stack 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -36,7 +25,7 @@ worked with .NET for my graduation project. Now I have graduated and am free to 
 <a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" width="40" height="40" /></a> 
 </p>
 
-### Ссылки/Links
+### Links
 <div align="left">
   <a href="https://github.com/dimyliki5042" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
