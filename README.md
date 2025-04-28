@@ -36,3 +36,4 @@ He studied at college as a programmer technician. He was engaged in the developm
 
 ---
 <a href="https://github.com/dimyliki5042"> <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dimyliki5042&theme=react&line_height=40&hide=css"/> </a>
+<a><img src="https://www.codewars.com/users/dimyliki5042/badges/large" /></a>
