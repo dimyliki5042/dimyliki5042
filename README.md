@@ -6,9 +6,6 @@ He studied at college as a programmer technician. He was engaged in the developm
 
 * ✉️ You can contact me [dimyliki5042@gmail.com](mailto:dimyliki5042@gmail.com)
 * 🧠 Currently I am studying: Python, Data Science, AI development
-<a href="https://www.github.com/dimyliki5042" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/dimyliki5042?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
 
 ### Stack 
 <p align="left">
