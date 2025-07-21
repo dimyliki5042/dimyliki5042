@@ -2,7 +2,7 @@ Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127
 ===============================================================================================================================
 Developer
 ------------------
-I went to college as a software engineering technician. I have been developing 2D, 3D and VR games. I did some development work of .NET applications. I am currently actively studying the development of neural networks.
+I went to college as a software engineering. I have been developing 2D, 3D and VR games. I did some development work of .NET applications. I am currently actively studying the development of neural networks.
 
 * ✉️ You can contact me [dimyliki5042@gmail.com](mailto:dimyliki5042@gmail.com)
 * 🧠 Currently I am studying: Python, Data Science, AI development
